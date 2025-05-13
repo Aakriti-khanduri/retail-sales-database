@@ -2,9 +2,10 @@
 # 🛒 Retail Sales Database
 
 This project models a retail sales environment using three interconnected datasets:
+📊 Dataset Source: [Kaggle - Retail Sales Data](https://www.kaggle.com/datasets/svbstan/sales-product-and-customer-insight-repository?select=customer_profile_dataset.csv)
+
 - customer_profile_dataset
 - products_dataset_1
--
 - purchase_history_dataset
 
 ## 🗃️ Datasets
